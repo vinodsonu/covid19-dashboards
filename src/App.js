@@ -3,7 +3,7 @@ import './App.css'
 const statesList = [
   {
     state_code: 'AN',
-    state_name: 'Andaman and Nicobar Islands',
+    state_name: 'Andaman and Nicobar Islandss',
   },
   {
     state_code: 'AP',
